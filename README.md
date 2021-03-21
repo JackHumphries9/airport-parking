@@ -35,7 +35,7 @@ This project is a small assignment which was to make a car parking map where peo
 * [Flask](https://flask.palletsprojects.com/)
 * [SQLite3](https://www.sqlite.org/)
 
-### Installation
+### Run The Application
 You need Python 3 and PIP installed to run this. Python 2 is not supported.
 
 1. Clone the repo
