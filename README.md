@@ -77,6 +77,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@JackPHumphries](https://twitter.com/JackPHumphries) - me@jackhumphries.dev
 
-Project Link: [https://github.com/JackHumphries9/formula-calculator](https://github.com/JackHumphries9/formula-calculator)
+Project Link: [https://github.com/JackHumphries9/airport-parking](https://github.com/JackHumphries9/airport-parking)
 
 [product-screenshot]: ./screenshot.png
